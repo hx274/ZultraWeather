@@ -7,7 +7,8 @@ THESE ARE THE CURRENTLY SUPPORTED VERSIONS:
 | Version | Supported          | END OF SUPPORT       |
 | ------- | ------------------ |----------------------|
 | V2-BETA | :white_check_mark: | 01/01/2026           |
-| V1-BETA | :x:                | 10/11/2025           |
+| V1-STABLE | :x:                | 10/11/2025           |
+| V1-BETA | :x:                   | 9/10/2025
 
 # Downloading legacy versions
 
@@ -20,4 +21,5 @@ THESE ARE THE LEGACY VERSIONS:
 | Version   | Downloadable|
 | --------- | ------------| 
 | V1-STABLE | ✅          |
-| V1-BETA   | :x:             |
+| V1-STABLE | :white_check_mark:         |
+| V1-BETA   | :x:         |
