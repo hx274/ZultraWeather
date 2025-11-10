@@ -20,6 +20,5 @@ THESE ARE THE LEGACY VERSIONS:
 
 | Version   | Downloadable|
 | --------- | ------------| 
-| V1-STABLE | ✅          |
 | V1-STABLE | :white_check_mark:         |
 | V1-BETA   | :x:         |
